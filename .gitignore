@@ -1,6 +1,9 @@
 # Ignored folders
 dmem_2V0-backups/
 # Ignored extensions
-.zip
-.log
-.lck
+*.zip
+*.log
+*.lck
+
+# ignoring cache
+*-cache
