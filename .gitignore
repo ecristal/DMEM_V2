@@ -1,4 +1,5 @@
 # Ignored folders
+gerbers/
 dmem_2V0-backups/
 # Ignored extensions
 *.zip
