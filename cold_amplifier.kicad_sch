@@ -1547,8 +1547,8 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 20480287-fa85-44f0-be52-3c4f38e21b1b))
-    (pin "2" (uuid b2051e74-1e15-4b7c-93e9-023260d584d9))
-    (pin "2" (uuid b2051e74-1e15-4b7c-93e9-023260d584d9))
+    (pin "2" (uuid b2051e74-1e15-4b7c-93e9-023260d584da))
+    (pin "2" (uuid b2051e74-1e15-4b7c-93e9-023260d584da))
     (pin "3" (uuid ca1f3578-990a-4c3b-9710-da3fe8b7a1cd))
     (instances
       (project "dmem_2V0"
