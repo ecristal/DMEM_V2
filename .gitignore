@@ -1,10 +1,12 @@
 # Ignored folders
-gerbers/
 dmem_2V0-backups/
 # Ignored extensions
 *.zip
 *.log
 *.lck
+*.tmp
+*.xml
+*auto*
 
 # ignoring cache
 *-cache
