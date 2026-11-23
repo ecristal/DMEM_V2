@@ -459,7 +459,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "step/dmem_2V0.step",
+      "step": "to_edms/dmem_2V1_to_edms/Step/dmem_2V1.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -489,7 +489,7 @@
     },
     "net_format_name": "KiCad",
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "to_edms/dmem_2V1_to_edms/",
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
     "spice_model_current_sheet_as_root": true,

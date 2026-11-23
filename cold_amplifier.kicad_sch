@@ -4068,11 +4068,11 @@
     (uuid fe6d7c5e-43b8-4a27-9868-fd8bd7dbea96)
   )
 
-  (text "18/12/2024\n" (at 205.74 194.31 0)
+  (text "02/04/2026" (at 205.74 194.31 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 01004974-545c-4a6d-84cf-5636624537bc)
   )
-  (text "DMEM V2.0 - Cold Amplifier" (at 187.96 190.5 0)
+  (text "DMEM V2.1 - Cold Amplifier" (at 187.96 190.5 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid cf048a1f-873f-4b70-8b1e-cb45ab33c301)
   )

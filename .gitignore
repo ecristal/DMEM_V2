@@ -1,11 +1,19 @@
 # Ignored folders
 dmem_2V0-backups/
+cmrr_return_ab/
+fabrications/
+tmp/
+to_edms/
 # Ignored extensions
 *.zip
 *.log
 *.lck
 *.tmp
 *.xml
+*.pdf
+*.png
+*.html
+*.csv
 *auto*
 
 # ignoring cache
